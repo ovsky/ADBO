@@ -60,12 +60,11 @@ Project components:
 
 ## 📝 License:
 
-> Copyright (c) 2023 - Przemysław Orłowski
+Copyright (c) 2023 - Przemysław Orłowski
 
-> License: ("THE SOFTWARE IS PROVIDED 'AS IS' (...)")
-> also known as:
-> **MIT License**
+License: ["THE SOFTWARE IS PROVIDED 'AS IS' (...)"]
+also known as:
+**[MIT License]**
 
 License file: https://github.com/ovsky/adbo/blob/main/LICENSE.txt
 
----
